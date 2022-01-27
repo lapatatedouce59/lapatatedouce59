@@ -8,6 +8,7 @@
 - 👨 **Genre:** Masculin
 - 🕑 **Âge:** 15 ans
 - 🤩 **Orientation sexuelle:** Hétéro
+- ❤ **Situation:** En couple 
 - 📍 **Habite:** à Tourcoing, près de Lille
 
 ### Mes passions
@@ -23,10 +24,18 @@
 </details>
 
 - 🚨 Electronique
-- 📸 Photographie
+- 📸 Photographie *(allez checker mon instagram un peu plus bas 😅)*
 - 🎥 Audiovisuel
-- 🎧 Musique (je fais de la batterie)
-- 🚇 Trains
+<details>
+  <summary>❔ Détails</summary>
+
+  - Je suis monteur vidéo gratuit/payant et réalisateur indépendant
+  - Plusieurs projets à mon actif dont 4 en cours
+  - Je fais tout type de montage (AMV, vlog, animation, court-métrages, gaming)
+  
+</details>
+- 🎧 Musique (je fais de la batterie et je touche beaucoup à FL Studio)
+- 🚇 Trains (plus spécialement les métros 😋)
 
 ### Mes réseaux:
 
