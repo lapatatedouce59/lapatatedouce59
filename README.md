@@ -37,6 +37,7 @@
 - 🎧 Musique (je fais de la batterie et je touche beaucoup à FL Studio)
 - 🚇 Trains (plus spécialement les métros 😋)
 
+
 ### Mes réseaux:
 
 [<img align="left" alt="La Patate Douce | YouTube" width="70px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />](https://m.youtube.com/c/LaPatateDouce)
