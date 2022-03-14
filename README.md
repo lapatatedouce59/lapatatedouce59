@@ -1,4 +1,4 @@
-<img align="center" alt="Banière" width="400px" src="https://cdn.discordapp.com/attachments/411048036928585729/901530918005637161/tumblr_pqj99kdZpz1woet32o1_640.gif" />
+<img align="center" alt="Banière" width="400px" src="https://media0.giphy.com/media/TIj8cbzWYKnE9ul3ab/giphy.gif?cid=6c09b952f57sue3oc51pey162pu0l74g36z66so029tkpmnb&rid=giphy.gif&ct=s" />
 
 ## Coucou! C'est Amaury aka [Patate](https://m.youtube.com/c/LaPatateDouce) 👋
 
