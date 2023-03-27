@@ -21,9 +21,11 @@
 ### Description de moi
 Je suis développeur front-end et back-end, j'apprends tout les jours. <br>
 J'me considère pas spécialement à l'aise en code mais je bosse. <br>
-Je fais partie de l'équipe de développement de [Paris Metro Driver](https://metrodriver.ddns.net/site/) <br>
+Je fais partie de l'équipe de développement de [Paris Metro Driver](https://pmdapp.fr) <br>
 Je suis un fan inconditionnel de rock-metal et surtout de Bring Me The Horizon. <br>
 Beaucoup de projets en cours, beaucoup jamais achevés mais je reprends petit à petit :)
+
+Actif la majorité des soirs de semaine, le week-end la journée généralement.
 
 [![Discord](https://media.discordapp.net/attachments/720936894208278528/1039971641746280521/discord.png)](https://discord.gg/pmd) <br>
 [![Steam](https://media.discordapp.net/attachments/720936894208278528/1039971642547384330/steam.png)](https://steamcommunity.com/id/antheus59200/) <br>
