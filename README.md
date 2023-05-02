@@ -27,10 +27,10 @@ Beaucoup de projets en cours, beaucoup jamais achevés mais je reprends petit à
 
 Actif la majorité des soirs de semaine, le week-end la journée généralement.
 
-[![Discord](https://media.discordapp.net/attachments/720936894208278528/1039971641746280521/discord.png)](https://discord.gg/pmd) <br>
-[![Steam](https://media.discordapp.net/attachments/720936894208278528/1039971642547384330/steam.png)](https://steamcommunity.com/id/antheus59200/) <br>
-[![Youtube](https://media.discordapp.net/attachments/720936894208278528/1039971643621126277/youtube.png)](https://www.youtube.com/c/LaPatateDouce/about) <br>
-[![Twitch](https://media.discordapp.net/attachments/720936894208278528/1039971642924879982/twitch.png)](https://www.twitch.tv/la_patate_douce_exe) <br>
-[![Twitter](https://media.discordapp.net/attachments/720936894208278528/1039971643235237978/twitter.png)](https://twitter.com/P4tateDouce_) <br>
-[![Insta](https://media.discordapp.net/attachments/720936894208278528/1039971642123747328/instagram.png)](https://www.instagram.com/la_patate_douce_exe/) <br>
+[![Discord](https://img.shields.io/discord/835876247245946911)](https://discord.gg/pmd) <br>
+[![Steam](https://img.shields.io/static/v1?label=Steam&message=Follow&color=ff69b4&logo=Steam&style=social)](https://steamcommunity.com/id/antheus59200/) <br>
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCRYrmhs5pHbZn0VZyz0f0Bw?style=social)](https://www.youtube.com/c/LaPatateDouce/about) <br>
+[![Twitch](https://img.shields.io/twitch/status/la_patate_douce_exe?style=social)](https://www.twitch.tv/la_patate_douce_exe) <br>
+[![Twitter](https://img.shields.io/twitter/follow/P4tateDouce_?style=social)](https://twitter.com/P4tateDouce_) <br>
+[![Insta](https://img.shields.io/static/v1?label=instagram&message=Follow&color=ff69b4&logo=Instagram&style=social)](https://www.instagram.com/la_patate_douce_exe/) <br>
 ---
