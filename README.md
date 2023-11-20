@@ -4,7 +4,7 @@
 
 - 😊 **Prénom:** Amaury
 - 👨 **Genre:** Masculin
-- 🕑 **Âge:** 16 ans
+- 🕑 **Âge:** 17 ans
 - 🤩 **Orientation sexuelle:** Hétéro
 - ❤ **Situation:** En couple 
 - 📍 **Habite:** à Tourcoing, près de Lille
