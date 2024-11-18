@@ -1,22 +1,19 @@
-# Coucou! C'est Amaury aka [Patate](https://m.youtube.com/c/LaPatateDouce) 👋
+# Amaury, alias [Patate Douce](https://m.youtube.com/c/LaPatateDouce)
 
-### Moi
+## ↪ Qui suis-je?
+Amaury, étudiant lillois de Terminale STI2D option SIN.
 
-- 😊 **Prénom:** Amaury
-- 👨 **Genre:** Masculin
-- 🕑 **Âge:** 17 ans
-- 🤩 **Orientation sexuelle:** Hétéro
-- ❤ **Situation:** En couple 
-- 📍 **Habite:** à Tourcoing, près de Lille
+## ↪ Mes passions
+⪢ 💻 Informatique
+  ⇒ Que cela soit coté software ou hardware, j'aime l'informatique.
+⪢ 🚨 Electronique
+  ⇒ A mes heures perdues, je réalise des petits projets. Mon projet final est une maquette réaliste à échelle réduite du VAL.
+⪢ 🎥 Audiovisuel
+  ⇒ Je capture photos et vidéos, et je fais beaucoup de montage.
+⪢ 🎧 Musique
+  ⇒ Je suis batteur / percussioniste.
+⪢ 🚇 Trains
 
-### Mes passions
-
-- 💻 Informatique
-- 🚨 Electronique
-- 📸 Photographie
-- 🎥 Audiovisuel
-- 🎧 Musique (je fais de la batterie et je touche beaucoup à FL Studio)
-- 🚇 Trains (plus spécialement les métros 😋)
 
 ### Description de moi
 Je suis développeur front-end et back-end, j'apprends tout les jours. <br>
