@@ -1,7 +1,7 @@
 # Amaury, alias [Patate Douce](https://m.youtube.com/c/LaPatateDouce)
 
 ## ■ Qui suis-je?
-Amaury, étudiant lillois de Terminale STI2D option SIN.
+Amaury, étudiant lillois en première année de BUT GEII.
 
 ## ■ Mes passions
 - ⪢ 💻 Informatique <br>
@@ -18,4 +18,4 @@ Amaury, étudiant lillois de Terminale STI2D option SIN.
 ## ■ A propos de moi
 Je suis développeur, pour l'instant web. Je co-développe le projet [Mobilille](https://mobilille.fr/), principalement une application React Native. Je co-développe également le projet [Paris Metro Driver](https://pmdapp.fr/).
 Je cherche chaque jour à développer de nouvelles compétences en développements, notemment en Java et en C++/C#. De même en électronique, avec des mini-projets.
-Mon projet personnel actuel est VALSIM, la simulation réaliste du système VAL sur web.
+Mon projet personnel actuel est PRATIC, un réseau automatique de train miniatures en CBTC.
